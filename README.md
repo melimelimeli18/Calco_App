@@ -24,6 +24,9 @@ Fitur-Fitur Aplikasi Calco (CalmConnect):
 - Panduan Meditasi Interaktif Panduan audio yang membantu proses relaksasi, dilengkapi visualisasi seperti gelombang suara dan progress audio yang berjalan otomatis.
 - Audio Terapi Sensorik Memutar suara yang menenangkan untuk membantu regulasi sensorik anak-anak dengan ASD. Audio otomatis diputar ketika masuk halaman terapi.
 
+Installation apk :
+https://drive.google.com/file/d/1dTuQDLc-rr-cP542Ffp-J3UydWgCcxxS/view?usp=sharing
+
 Logo
 
 ![icon_app](https://github.com/user-attachments/assets/7dd2755e-fbf3-4d91-bcab-74d43e231cf1)
