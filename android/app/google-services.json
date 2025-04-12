@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35036641986",
+    "project_id": "calco-4da7a",
+    "storage_bucket": "calco-4da7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35036641986:android:14e38206b68e6c118b995b",
+        "android_client_info": {
+          "package_name": "com.example.calco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWafSfH8aH6h9FYFn7LC090Aq3q4QYZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
