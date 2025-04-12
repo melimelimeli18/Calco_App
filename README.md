@@ -5,9 +5,11 @@ Judul = Calco: Solusi Digital untuk Regulasi Sensorik dan Terapi Austisme
 
 Nama Anggota:
 
-Filbert Ferdinand 535240030 (Hustler)
-Melisa Olivia 535240056 (Hipster)
-Devany Aguslia 535230189 (Hacker)
+- Filbert Ferdinand 535240030 (Hustler)
+- Melisa Olivia 535240056 (Hipster)
+- Devany Aguslia 535230189 (Hacker)
+
+
 Brief Explanation Product
 Calco (CalmConnect), hadir sebagai solusi digital yang dirancang untuk mendukung proses regulasi sensorik dan terapi bagi anak-anak dengan Autisme Spectrum Disorder (ASD). Visi kami adalah meningkatkan kualitas hidup para penyandang disabilitas kognitif dengan menyediakan akses terapi yang mudah, rutin, dan terjangkau. Calco tidak dimaksudkan untuk menggantikan peran profesional seperti terapis atau dokter, melainkan berperan sebagai media pendukung yang memperluas jangkauan akses terapi, terutama bagi keluarga yang mengalami keterbatasan dalam mendapatkan layanan terapi konvensional. Dengan pendekatan yang personal dan berbasis teknologi, Calco membantu anak-anak dan orang tua menjalani sesi terapi yang lebih terstruktur dan menyenangkan di lingkungan rumah. Minimum Viable Product (MVP) – Calco Versi awal Calco dirancang sebagai pendamping terapi yang membantu anak-anak dengan autisme menjalani sesi regulasi sensorik yang nyaman, terstruktur, dan terhubung langsung dengan orang tua atau wali mereka. Di Calco, ada tiga fitur utama yang menjadi dasar dari produk kami:
 
