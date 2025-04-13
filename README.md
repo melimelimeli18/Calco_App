@@ -27,6 +27,9 @@ Fitur-Fitur Aplikasi Calco (CalmConnect):
 Installation apk :
 https://drive.google.com/file/d/1dTuQDLc-rr-cP542Ffp-J3UydWgCcxxS/view?usp=sharing
 
+Demo App : 
+https://drive.google.com/drive/u/0/folders/1M-yzc3euK1hGnirm70Cz3_df5mC3uRvX
+
 Logo
 
 ![icon_app](https://github.com/user-attachments/assets/7dd2755e-fbf3-4d91-bcab-74d43e231cf1)
