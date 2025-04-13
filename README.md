@@ -1,4 +1,4 @@
-Nama Tim = UCCD YukBisaYuk
+![image](https://github.com/user-attachments/assets/f79b50b8-b256-45de-a787-185e5a140af2)Nama Tim = UCCD YukBisaYuk
 
 Judul = Calco: Solusi Digital untuk Regulasi Sensorik dan Terapi Austisme
 
@@ -26,6 +26,9 @@ Fitur-Fitur Aplikasi Calco (CalmConnect):
 
 Installation apk :
 https://drive.google.com/file/d/1dTuQDLc-rr-cP542Ffp-J3UydWgCcxxS/view?usp=sharing
+
+Demo App :
+https://drive.google.com/drive/u/0/folders/1M-yzc3euK1hGnirm70Cz3_df5mC3uRvX
 
 Logo
 
