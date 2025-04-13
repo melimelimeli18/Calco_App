@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f79b50b8-b256-45de-a787-185e5a140af2)Nama Tim = UCCD YukBisaYuk
+Nama Tim = UCCD YukBisaYuk
 
 Judul = Calco: Solusi Digital untuk Regulasi Sensorik dan Terapi Austisme
 
